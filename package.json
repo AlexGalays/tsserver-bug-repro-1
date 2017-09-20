@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "watch": "node_modules/webpack/bin/webpack.js --watch --config watch.js"
+  },
+
+  "dependencies": {
+    "typescript": "2.5.2",
+    "webpack": "3.6.0",
+    "ts-loader": "2.3.3"
+  }
+}
